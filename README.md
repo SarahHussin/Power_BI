@@ -1,2 +1,2 @@
-# Power_BI0
+# Power_BI
 Dashboards I have created using Power BI.
